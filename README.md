@@ -1,4 +1,4 @@
-👋 Hi, I’m @miabhishekgaikwad  
+👋 Hi, I’m Abhishek Gaikwad  
 👀 I’m interested in coding, simulator games, and creating unique Discord bots.  
 🌱 I’m currently learning JavaScript and Node.js to enhance my development skills.  
 💞️ I’m looking to collaborate on innovative bot projects or gaming community tools.  
