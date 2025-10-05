@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">👀 I’m interested in coding, simulator games, and creating unique Discord bots.<br>🌱 I’m currently learning JavaScript and Node.js to enhance my development skills.<br>💞️ I’m looking to collaborate on innovative bot projects or gaming community tools.<br>📫 How to reach me: Discord - abhishek.gaikwad<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I’ve played Euro Truck Simulator 2 for over 400 hours, perfecting virtual logistics!</p>
+<p align="left">👀 I’m interested in coding, simulator games, and creating unique Discord bots.<br>🌱 I’m currently learning JavaScript and Node.js to enhance my development skills.<br>💞️ I’m looking to collaborate on innovative bot projects or gaming community tools.<br>📫 How to reach me: Discord - abhishek.gaikwad<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I’ve played Euro Truck Simulator 2 for over 687 hours, perfecting virtual logistics!</p>
 
 ###
 
